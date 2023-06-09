@@ -17,9 +17,13 @@ Hayvanların kozmetik ürün deneylerinde kullanılmasına tepki amaçlı tasarl
 # Ürün Özellikleri
 
 Soft 3d enviroment elements
+
 Cinematics
+
 Secret mission system
+
 Puzzles
+
 2 different theme (dark and soft – happy and scared)
 
 # Hedef Kitle
