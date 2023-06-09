@@ -3,9 +3,13 @@ Unity-129
 
 # Takım Rolleri
 Sena DEMİRBAŞ - Scrum Master
+
 Muhammed Ruşan GÜVENÇ - Product Owner
+
 Ekin Ezgi YILDIZHAN - Developer
+
 Furkan Tunç SÖĞÜT - Developer
+
 Nur Bahar YAVUZ - Developer
 
 # Ürün İsmi
