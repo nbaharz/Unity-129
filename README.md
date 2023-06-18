@@ -55,6 +55,13 @@ Sprint board update: Sprint board screenshotları: ![](sprint-1-gorsel/trello.pn
 ![](sprint-1-gorsel/sahne_4.png)
 ![](sprint-1-gorsel/sprint1_genel_hareket_ve_kamera_takip.gif)
 
+Sprint Review: Alınan kararlar: Oyun hikayesi ve amacı netleştirildi. Kullanılacak assetler kaba taslak olarak belirlendi.Genel kontroller ve kamera takip kodları yapıldı. Animasyonlar üzerine çalışılıyor. Sahne tasarımları çizildi ve sinematik geçişler için tasarımlar devam ediyor. Bazı bulmaca mekanikleri ayarlandı. Sprint Review Katılımcıları : Tüm üyeler katılmıştır.
+
+Sprint Retrospective: 
+
+1.Tahmin puanlamaları gözden geçirilmeli.
+
+2. Github reposunu güncellemek için .git kullanımına yoğunlaşılmalı.
 
 
 # Product Backlog
