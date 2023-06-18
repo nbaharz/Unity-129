@@ -33,6 +33,8 @@ Puzzles
 # Hedef Kitle
 +13 yaş kitlesi
 
+Hayvansever insanlar
+
 # Sprint 1
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
@@ -40,10 +42,14 @@ Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 450 puan
 
 Daily Scrum: Daily Scrum toplantılarının Whatsapp ve Discord  üzerinden yapılmasına karar verilmiştir. [Daily_Scrum.docx](https://github.com/senademirbass/Unity-129/blob/main/Daily_Scrum.docx)
 
-Sprint board update: Sprint board screenshotları:
+Sprint board update: Sprint board screenshotları: ![](sprint-1-gorsel/trello.png)
 
+Ürün Durumu: Ekran görüntüleri: ![](sprint-1-gorsel/oda1.png)
+![](sprint-1-gorsel/oda2.png)
+![](sprint-1-gorsel/sahne_1.png)
+![](sprint-1-gorsel/sahne_2.png)
+![](sprint-1-gorsel/sahne_3.png)
+![](sprint-1-gorsel/sahne_14.png)
 
-
-Hayvansever insanlar
 
 # Product Backlog
