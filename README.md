@@ -46,6 +46,7 @@ Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 450 puan
 Daily Scrum: Daily Scrum toplantılarının Whatsapp ve Discord  üzerinden yapılmasına karar verilmiştir. [Daily_Scrum.docx](https://github.com/senademirbass/Unity-129/blob/main/Daily_Scrum.docx)
 
 Sprint Board Not: Grafiklere gösterge panosundan ulaşılmaktadır.
+
 Sprint board update: Sprint board screenshotları: ![](sprint-1-gorsel/trello.png)
 
 Ürün Durumu: Ekran görüntüleri: ![](sprint-1-gorsel/oda1.png)
