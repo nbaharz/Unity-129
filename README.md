@@ -53,3 +53,6 @@ Sprint board update: Sprint board screenshotları: ![](sprint-1-gorsel/trello.pn
 
 
 # Product Backlog
+
+[U-129 Product Backlog Trello Board](https://trello.com/b/riyQvt6m/u-129)
+
