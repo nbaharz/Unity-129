@@ -36,7 +36,7 @@ Puzzles
 # Sprint 1
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 Daily Scrum: Daily Scrum toplantılarının Whatsapp ve Discord  üzerinden yapılmasına karar verilmiştir. [Daily_Scrum.docx](https://github.com/senademirbass/Unity-129/blob/main/Daily_Scrum.docx)
 
