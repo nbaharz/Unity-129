@@ -31,5 +31,8 @@ Puzzles
 2 different theme (dark and soft – happy and scared)
 
 # Hedef Kitle
++13 yaş kitlesi
+
+Hayvansever insanlar
 
 # Product Backlog
