@@ -36,6 +36,9 @@ Puzzles
 Hayvansever insanlar
 
 # Sprint 1
+
+Sprint Notları: User Story'ler ve puanları product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
 Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
@@ -50,6 +53,7 @@ Sprint board update: Sprint board screenshotları: ![](sprint-1-gorsel/trello.pn
 ![](sprint-1-gorsel/sahne_2.png)
 ![](sprint-1-gorsel/sahne_3.png)
 ![](sprint-1-gorsel/sahne_4.png)
+[![](sprint-1-gorsel/video.png)](https://github.com/senademirbass/Unity-129/blob/main/sprint-1-gorsel/sprint1_genel_hareketler_ve_kamera_takip.mp4)
 
 
 # Product Backlog
