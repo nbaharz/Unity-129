@@ -53,7 +53,8 @@ Sprint board update: Sprint board screenshotları: ![](sprint-1-gorsel/trello.pn
 ![](sprint-1-gorsel/sahne_2.png)
 ![](sprint-1-gorsel/sahne_3.png)
 ![](sprint-1-gorsel/sahne_4.png)
-[![](sprint-1-gorsel/video.png)](https://github.com/senademirbass/Unity-129/blob/main/sprint-1-gorsel/sprint1_genel_hareketler_ve_kamera_takip.mp4)
+![](sprint-1-gorsel/sprint1_genel_hareket_ve_kamera_takip.gif)
+
 
 
 # Product Backlog
