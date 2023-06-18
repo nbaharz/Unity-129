@@ -49,7 +49,7 @@ Sprint board update: Sprint board screenshotları: ![](sprint-1-gorsel/trello.pn
 ![](sprint-1-gorsel/sahne_1.png)
 ![](sprint-1-gorsel/sahne_2.png)
 ![](sprint-1-gorsel/sahne_3.png)
-![](sprint-1-gorsel/sahne_14.png)
+![](sprint-1-gorsel/sahne_4.png)
 
 
 # Product Backlog
