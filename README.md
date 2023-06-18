@@ -61,7 +61,7 @@ Sprint Retrospective:
 
 1.Tahmin puanlamaları gözden geçirilmeli.
 
-2. Github reposunu güncellemek için .git kullanımına yoğunlaşılmalı.
+2.Github reposunu güncellemek için .git kullanımına yoğunlaşılmalı.
 
 
 # Product Backlog
