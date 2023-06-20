@@ -1,0 +1,368 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.1f1 (f18e0c1b5784) revision 15830540'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit CoreSingleLanguage' Language: 'tr' Physical Memory: 7991 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/sena-/OneDrive/Masaüstü/U-129/Unity-129
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+50241
+Successfully changed project path to: C:/Users/sena-/OneDrive/Masaüstü/U-129/Unity-129
+C:/Users/sena-/OneDrive/Masaüstü/U-129/Unity-129
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [4724] Host "[IP] 192.168.1.105 [Port] 0 [Flags] 2 [Guid] 157321645 [EditorId] 157321645 [Version] 1048832 [Id] WindowsEditor(7,D15) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [4724] Host "[IP] 192.168.1.105 [Port] 0 [Flags] 2 [Guid] 157321645 [EditorId] 157321645 [Version] 1048832 [Id] WindowsEditor(7,D15) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 11.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.1f1 (f18e0c1b5784)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/sena-/OneDrive/Masaüstü/U-129/Unity-129/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:   Intel
+    VRAM:     3995 MB
+    Driver:   31.0.101.3959
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56332
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008282 seconds.
+- Loaded All Assemblies, in  0.502 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.361 seconds
+Domain Reload Profiling: 863ms
+	BeginReloadAssembly (138ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (52ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (94ms)
+	LoadAllAssembliesAndSetupDomain (201ms)
+		LoadAssemblies (136ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (194ms)
+			TypeCache.Refresh (193ms)
+				TypeCache.ScanAssembly (175ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (362ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (282ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (12ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (197ms)
+			ProcessInitializeOnLoadMethodAttributes (57ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\sena-\OneDrive\Masaüstü\U-129\Unity-129\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\sena-\OneDrive\Masaüstü\U-129\Unity-129\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  1.128 seconds
+Refreshing native plugins compatible for Editor in 12.06 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.574 seconds
+Domain Reload Profiling: 1701ms
+	BeginReloadAssembly (267ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (44ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (105ms)
+	LoadAllAssembliesAndSetupDomain (692ms)
+		LoadAssemblies (450ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (384ms)
+			TypeCache.Refresh (363ms)
+				TypeCache.ScanAssembly (350ms)
+			ScanForSourceGeneratedMonoScriptInfo (13ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (575ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (404ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (84ms)
+			ProcessInitializeOnLoadAttributes (272ms)
+			ProcessInitializeOnLoadMethodAttributes (28ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 3.00 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3070 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (56.2 KB). Loaded Objects now: 3535.
+Memory consumption went from 115.8 MB to 115.7 MB.
+Total: 3.713100 ms (FindLiveObjects: 0.236600 ms CreateObjectMapping: 0.207300 ms MarkObjects: 3.102300 ms  DeleteObjects: 0.164300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2109.320875 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Extras/FaceCaptureTimeline.playable
+  artifactKey: Guid(4e78f41b77ca20e47a96743fd5e3cb24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Extras/FaceCaptureTimeline.playable using Guid(4e78f41b77ca20e47a96743fd5e3cb24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8cc37555d0dbf0d7ae634957a496b1e') in 0.020400 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 5.770843 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Models/Sydney_Base_model.fbx
+  artifactKey: Guid(33b8aa39b678ed04ebe408522c2e6dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Models/Sydney_Base_model.fbx using Guid(33b8aa39b678ed04ebe408522c2e6dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '205f1747462875ca1597fb77bbdc4e21') in 0.824720 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 252
+========================================================================
+Received Import Request.
+  Time since last request: 48.009096 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/FaceMapper/SydneyRabbitFaceMapper.asset
+  artifactKey: Guid(4e1b3b765b20d784a8b2489e18f43d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/FaceMapper/SydneyRabbitFaceMapper.asset using Guid(4e1b3b765b20d784a8b2489e18f43d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56c787ecc78db8ae204dc469daf843ea') in 0.007693 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.006424 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/FaceMapper/SydneySilentFaceMapper.asset
+  artifactKey: Guid(c2b558d317172c348995fae217583e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/FaceMapper/SydneySilentFaceMapper.asset using Guid(c2b558d317172c348995fae217583e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '943dba4dfb35aeff0b292e30122b76f9') in 0.004713 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.003345 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/FaceMapper/SydneySuitFaceMapper.asset
+  artifactKey: Guid(f59eec1c947fbd64fb90bcf635dd3ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/FaceMapper/SydneySuitFaceMapper.asset using Guid(f59eec1c947fbd64fb90bcf635dd3ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37c3f325027fceeeb1ef93ef82a981e2') in 0.005767 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 15.079806 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures
+  artifactKey: Guid(5e8af81bf47fcb043a0a44bca41d4f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures using Guid(5e8af81bf47fcb043a0a44bca41d4f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '581260128e498e1d809a779c36ac55f4') in 0.000742 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.289395 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Costumed_Body_BaseColor.tga
+  artifactKey: Guid(4d1c127d0c52b3b4bb1ba4bf7d39f897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Costumed_Body_BaseColor.tga using Guid(4d1c127d0c52b3b4bb1ba4bf7d39f897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '361c7307238db4b5f001492afc48fb2d') in 0.036770 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Costumed_Eye_MaskMap.tga
+  artifactKey: Guid(2d0766129d98eee4b8061f3e57424559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Costumed_Eye_MaskMap.tga using Guid(2d0766129d98eee4b8061f3e57424559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '411461fe64a30dff75b5cd3251c73c49') in 0.029334 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Costumed_Eye_BaseColor.tga
+  artifactKey: Guid(f42c7c157969b3a4b9c70ce84b60087f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Costumed_Eye_BaseColor.tga using Guid(f42c7c157969b3a4b9c70ce84b60087f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b182f2ee75b633d08f817d83d4a8b6f3') in 0.029737 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Costumed_Mouth_Normal.tga
+  artifactKey: Guid(f7a171f1815ad2f459357c4f646b6c6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Costumed_Mouth_Normal.tga using Guid(f7a171f1815ad2f459357c4f646b6c6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '425e1e1123ada68271183b850c21fa65') in 0.052996 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Scifi_UpperBody_MaskMap.tga
+  artifactKey: Guid(9a6bde6b76998fe4fbdf4fd311ef185d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Scifi_UpperBody_MaskMap.tga using Guid(9a6bde6b76998fe4fbdf4fd311ef185d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f5f781721f7b8790a81788b70a49b20') in 0.032902 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Suit_Pant_MaskMap.tga
+  artifactKey: Guid(69adafd4ec0c79c42b9113f9094fd2aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Suit_Pant_MaskMap.tga using Guid(69adafd4ec0c79c42b9113f9094fd2aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e52011271fa5bfc890b1d9f3f1fe7ad5') in 0.039867 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Suit_Shirt_BaseColor.tga
+  artifactKey: Guid(95ead8fc8184ecd458b1304301ace02e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Suit_Shirt_BaseColor.tga using Guid(95ead8fc8184ecd458b1304301ace02e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86cf2d217d2e616bfbd94f4838f387aa') in 0.034214 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Silent_Cloth_Normal.tga
+  artifactKey: Guid(117dd9ceb4b909f4fbd08c6a7f6666f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Silent_Cloth_Normal.tga using Guid(117dd9ceb4b909f4fbd08c6a7f6666f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ad4a6ad152fd39ad2d84742cd10ee67') in 0.034733 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Costumed_Sclera_Normal.tga
+  artifactKey: Guid(4497fba6695822941946f006d530f4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Costumed_Sclera_Normal.tga using Guid(4497fba6695822941946f006d530f4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d5dc07f2054b504f7fbd864a9902db8') in 0.022876 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000530 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Silent_Cloth_MaskMap.tga
+  artifactKey: Guid(35e42890256e8a7499d41dc231eb1938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Silent_Cloth_MaskMap.tga using Guid(35e42890256e8a7499d41dc231eb1938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a01ba69a813d0c115a2287cd6e49720') in 0.041588 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Suit_Pant_BaseColor.tga
+  artifactKey: Guid(e1a64ae106595a440aaafbb7d9b8b430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Suit_Pant_BaseColor.tga using Guid(e1a64ae106595a440aaafbb7d9b8b430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b56928fd069bd36004a2a301603aeac') in 0.031334 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Silent_Cloth_BaseColor.tga
+  artifactKey: Guid(3946fa27d4b0490439b29b38c85ac272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Silent_Cloth_BaseColor.tga using Guid(3946fa27d4b0490439b29b38c85ac272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6775a054765a6348094120b7f41e8bf6') in 0.035859 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Suit_Jacket_BaseColor.tga
+  artifactKey: Guid(56c00f2f7ba4ee84eba8645bd14a5d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Suit_Jacket_BaseColor.tga using Guid(56c00f2f7ba4ee84eba8645bd14a5d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc269af5c80722c22820c61de7eac1ac') in 0.030421 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Scifi_accessories_MaskMap.tga
+  artifactKey: Guid(b82e5fd717a59e64da5ea9b3054954d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Scifi_accessories_MaskMap.tga using Guid(b82e5fd717a59e64da5ea9b3054954d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf8715db0837ffc5e2bce0f0c822f1c8') in 0.040228 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Suit_Jacket_Normal.tga
+  artifactKey: Guid(0bde033431b068c4894cfe3c193d57c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Suit_Jacket_Normal.tga using Guid(0bde033431b068c4894cfe3c193d57c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ca5fe1b70d0342b7d7f06c05d65cbbf') in 0.044728 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed
+  artifactKey: Guid(3fb066ed147872246b22c43a862a24b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed using Guid(3fb066ed147872246b22c43a862a24b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6201fd7c5d9742e4f167639f783654cd') in 0.000731 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Scifi_LowerBody_Normal.tga
+  artifactKey: Guid(03bd4d7f0af0f274abcfd684fe0bd29d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Scifi_LowerBody_Normal.tga using Guid(03bd4d7f0af0f274abcfd684fe0bd29d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fbab288e73a2ffffc83104f37211ed1') in 0.039269 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Costumed_Mouth_MaskMap.tga
+  artifactKey: Guid(ea4926f09ef581a418977ecdf818f7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Textures/Sydney_Costumed/Sydney_Costumed_Mouth_MaskMap.tga using Guid(ea4926f09ef581a418977ecdf818f7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7da6b38cb940c327f239c02bfeda377e') in 0.022202 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
