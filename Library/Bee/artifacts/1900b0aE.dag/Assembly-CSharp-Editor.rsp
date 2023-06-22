@@ -368,6 +368,9 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.1f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.1f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/RealtimeRascals_Facetracking/ReadmeInfo/Scripts/Editor/ReadmeEditor.cs"
+"Assets/WR_wHiteRabbiT-sTudio/WRFramework/Unity/Editor/Tools/AboutEW.cs"
+"Assets/WR_wHiteRabbiT-sTudio/WRFramework/Unity/Editor/Tools/ContinuationManager.cs"
+"Assets/WR_wHiteRabbiT-sTudio/WRFramework/Unity/Editor/Tools/wHiteRabbiTEW.cs"
 -langversion:9.0
 
 /deterministic
