@@ -21,11 +21,11 @@ public class InCameraDetected : MonoBehaviour
         cameraFrustum = GeometryUtility.CalculateFrustumPlanes(cam);
         if (GeometryUtility.TestPlanesAABB(cameraFrustum, bounds))
         {
-            renderer.sharedMaterial.color = Color.green;
+            renderer.sharedMaterial.color = Color.green; //in camera view
         }
         else
         {
-            renderer.sharedMaterial.color = Color.red;
+            renderer.sharedMaterial.color = Color.red; //out camera view
         }
     }
 }
