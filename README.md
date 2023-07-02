@@ -70,3 +70,41 @@ Sprint Retrospective:
 
 [U-129 Product Backlog Trello Board](https://trello.com/b/riyQvt6m/u-129)
 
+# Sprint 2
+
+Sprint Notları: User Story'ler ve puanları product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+Sprint içinde tamamlanması tahmin edilen puan: 150 Puan
+
+Daily Scrum: Daily Scrum toplantılarının Whatsapp ve Discord  üzerinden yapılmasına karar verilmiştir. [Daily_Scrum.docx]()
+
+Sprint Board Not: Premium süresi dolduğu için grafikler screenshot olarak eklendi.
+![]()
+![]()
+
+Sprint board update: Sprint board screenshotları: ![]()
+
+Ürün Durumu: Ekran görüntüleri: ![](sprint-1-gorsel/oda1.png)
+![](sprint-1-gorsel/oda2.png)
+![](sprint-1-gorsel/sahne_1.png)
+![](sprint-1-gorsel/sahne_2.png)
+![](sprint-1-gorsel/sahne_3.png)
+![](sprint-1-gorsel/sahne_4.png)
+![](sprint-1-gorsel/sprint1_genel_hareket_ve_kamera_takip.gif)
+
+Sprint Review: Alınan kararlar: Belirlenen sahne tasarımları yapıldı ve karakter asseti tasarlandı. Karakter animasyonları üzerine çalışıldı. Başlangıç sahnesinin sinematik çizimlerine devam edildi ve eksikler değerlendirildi. Sprint Review Katılımcıları : Tüm üyeler katılmıştır.
+
+Sprint Retrospective: 
+
+1. Ekip üyelerinden birinin teknik arıza yaşaması sebebiyle 2.sprintte yapılamayan ve sarkan görevlere 3.sprintte yoğunlaşılmalı.
+
+
+# Product Backlog
+
+[U-129 Product Backlog Trello Board](https://trello.com/b/wWiXLAKF/2-sprint)
+
+
+
+
+
+
