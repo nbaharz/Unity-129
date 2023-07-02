@@ -79,18 +79,17 @@ Sprint içinde tamamlanması tahmin edilen puan: 150 Puan
 Daily Scrum: Daily Scrum toplantılarının Whatsapp ve Discord  üzerinden yapılmasına karar verilmiştir. [Daily_Scrum.docx]()
 
 Sprint Board Not: Premium süresi dolduğu için grafikler screenshot olarak eklendi.
-![]()
-![]()
+![](sprint-2-gorsel/1.png)
+![](sprint-2-gorsel/2.png)
 
-Sprint board update: Sprint board screenshotları: ![]()
+Sprint board update: Sprint board screenshotları: ![](sprint-2-gorsel/sprint_2.png)
 
-Ürün Durumu: Ekran görüntüleri: ![](sprint-1-gorsel/oda1.png)
-![](sprint-1-gorsel/oda2.png)
-![](sprint-1-gorsel/sahne_1.png)
-![](sprint-1-gorsel/sahne_2.png)
-![](sprint-1-gorsel/sahne_3.png)
-![](sprint-1-gorsel/sahne_4.png)
-![](sprint-1-gorsel/sprint1_genel_hareket_ve_kamera_takip.gif)
+Ürün Durumu: Ekran görüntüleri: ![](sprint-2-gorsel/katletmeodası.jpg)
+![](sprint-2-gorsel/sahne1.png)
+![](sprint-2-gorsel/sahne2.jpg)
+![](sprint-2-gorsel/sahne3.png)
+![](sprint-2-gorsel/koridorVideo.gif)
+![](sprint-2-gorsel/odaVideo.gif)
 
 Sprint Review: Alınan kararlar: Belirlenen sahne tasarımları yapıldı ve karakter asseti tasarlandı. Karakter animasyonları üzerine çalışıldı. Başlangıç sahnesinin sinematik çizimlerine devam edildi ve eksikler değerlendirildi. Sprint Review Katılımcıları : Tüm üyeler katılmıştır.
 
