@@ -355,6 +355,10 @@
 "Assets/Scripts/ControlScipts/CameraController.cs"
 "Assets/Scripts/ControlScipts/CharacterControllerileçalışan.cs"
 "Assets/Scripts/ControlScipts/PlayerControllerBasic.cs"
+"Assets/StarterAssets/InputSystem/StarterAssetsInputs.cs"
+"Assets/StarterAssets/ThirdPersonController/Scripts/BasicRigidBodyPush.cs"
+"Assets/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs"
+"Assets/StarterAssets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 
 /deterministic
