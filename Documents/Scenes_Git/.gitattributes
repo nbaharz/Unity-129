@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 *.unitypackage filter=lfs diff=lfs merge=lfs -text
+=======
+.unitypackage filter=lfs diff=lfs merge=lfs -text
+>>>>>>> db889e6b3f4e2c3dde24a66cf6d8577b43846381
