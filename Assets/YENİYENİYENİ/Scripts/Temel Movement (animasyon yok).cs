@@ -11,6 +11,9 @@ public class CharacterMovementTemel : MonoBehaviour
     public CharacterController controller;
     private Vector3 moveDirection;
     public float gravityÇarpanı;
+    public float pushRadius;
+    public float pushForce;
+    private Vector3 pushDirection;
     //public Animator anim;
         void Start()
     {
@@ -27,6 +30,8 @@ public class CharacterMovementTemel : MonoBehaviour
         moveDirection = (transform.forward * Input.GetAxis("Vertical")) + (transform.right * Input.GetAxis("Horizontal"));
         moveDirection = moveDirection.normalized * moveSpeed;
         moveDirection.y = yStore;
+
+        PushObjects();
 
         if (controller.isGrounded)
         {
@@ -50,6 +55,28 @@ public class CharacterMovementTemel : MonoBehaviour
         //animator.SetFloat("speed", Mathf.Abs(controller.velocity.x) + Mathf.Abs(controller.velocity.z));
         
     }
+
+    private void PushObjects()
+    {
+        Collider[] pushableObjects = Physics.OverlapSphere(transform.position, pushRadius);
+
+        foreach (Collider collider in pushableObjects)
+        {
+            if (collider.CompareTag("Pushable"))
+            {
+                Vector3 pushDirection = collider.transform.position - transform.position;
+                pushDirection.y = 0f; // Yatay düzlemde itme yapmak için y eksenini sıfırla
+                pushDirection.Normalize();
+
+                Pushable pushable = collider.GetComponent<Pushable>();
+                if (pushable != null)
+                {
+                    pushable.Push(pushDirection, pushForce);
+                }
+            }
+        }
+    }
+
 
 
 }
