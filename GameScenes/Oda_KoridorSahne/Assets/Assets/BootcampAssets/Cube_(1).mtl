@@ -1,0 +1,10 @@
+newmtl Wall
+Kd 0.9947998 1 0.6830187
+d 1
+
+newmtl floor_tiles_08
+bump -o 0 0 -s 1 1 floor_tiles_08_nor_gl_1k.exr
+disp -o 0 0 -s 1 1 floor_tiles_08_disp_1k.png
+Kd 1 0.9121294 0.6924528
+d 0
+
