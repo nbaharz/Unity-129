@@ -359,6 +359,15 @@
 "Assets/StarterAssets/ThirdPersonController/Scripts/BasicRigidBodyPush.cs"
 "Assets/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs"
 "Assets/StarterAssets/TutorialInfo/Scripts/Readme.cs"
+"Assets/YENİYENİYENİ/Scripts/Düşme yedek.cs"
+"Assets/YENİYENİYENİ/Scripts/DüşmeAlanı.cs"
+"Assets/YENİYENİYENİ/Scripts/Key Pickup.cs"
+"Assets/YENİYENİYENİ/Scripts/PlayerFollowObject_forCamera.cs"
+"Assets/YENİYENİYENİ/Scripts/Push fonksiyonu (nesneye eklenecek).cs"
+"Assets/YENİYENİYENİ/Scripts/PushPull.cs"
+"Assets/YENİYENİYENİ/Scripts/RotationofMove.cs"
+"Assets/YENİYENİYENİ/Scripts/Temel Movement (animasyon yok).cs"
+"Assets/YENİYENİYENİ/Scripts/wİth animation movement script ( hatalar var).cs"
 -langversion:9.0
 
 /deterministic
