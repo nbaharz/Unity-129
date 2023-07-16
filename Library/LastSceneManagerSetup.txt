@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/ui-finish-scene.unity
+- path: "Assets/YEN\u0130YEN\u0130YEN\u0130/Anahtar Deneme Sahnesi.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
