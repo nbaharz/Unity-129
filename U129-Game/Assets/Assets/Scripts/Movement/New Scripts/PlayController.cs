@@ -9,8 +9,8 @@ public class PlayController : MonoBehaviour
     [SerializeField] float groundCheckRadius = 0.2f;
     [SerializeField] Vector3 groundCheckOffset;
     [SerializeField] LayerMask groundlayer;
-    
-    private float jumpHeight = 1f;
+    [SerializeField] float jumpHeight;
+
     private float gravity_ = -10f;
     bool isGrounded;
     float ySpeed;
@@ -41,7 +41,7 @@ public class PlayController : MonoBehaviour
             ySpeed = 0f;
             if(Input.GetButtonDown("Jump"))
             {
-                ySpeed = Mathf.Sqrt(jumpHeight * -2f * gravity_);
+                ySpeed = Mathf.Sqrt(jumpHeight * -2f * gravity_)*0.8f;
                 animator.SetBool("isJumped", true);
                 Debug.Log("Jumped");
             }
