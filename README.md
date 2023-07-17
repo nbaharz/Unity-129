@@ -133,7 +133,7 @@ https://github.com/senademirbass/Unity-129/assets/121698172/c3b2b476-6dac-40ee-8
 Sprint Rewiew: Alınan Kararlar: Belirlediğimiz sahne tasarımları tamamlandı ve eksikler kapatıldı. Karakter animasyonları tamamlandı.UI tasarımı tamamlandı. Bitiş sahnelerinin sinematik çizimi devam edildi. Sprint Review Katılımcıları : Tüm üyeler katılmıştır.
 
 Sprint Retrospective: 
-1. Zaman yönetimi daha iyi olmalı.
+1. Sahneler daha detaylı konuşulmalıydı.
 
 # Product Backlog
 [U-129 Ürün İş Listesi Trello Panosu](https://trello.com/b/riyQvt6m/u-129)
