@@ -109,21 +109,26 @@ Sprint Notları: User Story'ler ve puanları product backlog'ların içine yazı
 Sprint içinde tamamlanması tahmin edilen puan: 200 puan
 
 Daily Scrum: Daily Scrum toplantılarının Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir.
+[Daily_Scrum_Sprint_3.docx](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/files/12065621/Daily_Scrum_Sprint_3.docx)
+
 
 Sprint Board Not: Premium süresi dolduğu için grafikler screenshot olarak eklendi.
 
+Sprint Board Güncellemesi:
+![trello](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/assets/121698172/62d03dc6-0f23-49d5-9f79-0a0c603a66c2)
+![trello1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/assets/121698172/2bf944d0-a8db-42e3-88e1-0d86620eb546)
+
 Ürün Durumu: Ekran Görüntüleri
-![WhatsApp Image 2023-07-17 at 00 32 17](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/assets/121698172/a8a2a0d3-3434-4daa-87e4-efa16ca34d1c)
-![WhatsApp Image 2023-07-17 at 00 32 54](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/assets/121698172/32d83408-165d-4936-9f9a-abcd60a31b15)
 
 https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/assets/121698172/a5204064-5742-4f8b-943e-16db7e343e51
-
+![WhatsApp Image 2023-07-17 at 00 32 17](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/assets/121698172/a8a2a0d3-3434-4daa-87e4-efa16ca34d1c)
+![WhatsApp Image 2023-07-17 at 00 32 54](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/assets/121698172/32d83408-165d-4936-9f9a-abcd60a31b15)
 ![IMG_20230714_042833](https://github.com/senademirbass/Unity-129/assets/121698172/7a4fc84e-f55c-48b7-ac73-9e695b0c44be)
 ![57e12b7a-30fc-47b6-96df-0b9a9669a9c3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/assets/121698172/fee86206-94b5-493c-afca-ae9b9d32ac09)
 ![IMG_20230717_025934](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/assets/121698172/f725008c-bbd9-4c5f-a3bb-78b33ad5a8ab)
 
 
-Sprint Rewiew: Alınan Kararlar: Belirlediğimiz ve tamamlamlanmamış olan sahne tasarımları tamamlandı. Karakter animasyonları tamamlandı. Bitiş sahnelerinin sinematik çizimi devam edildi. Sprint Review Katılımcıları : Tüm üyeler katılmıştır.
+Sprint Rewiew: Alınan Kararlar: Belirlediğimiz sahne tasarımları tamamlandı ve eksikler kapatıldı. Karakter animasyonları tamamlandı.UI tasarımı tamamlandı. Bitiş sahnelerinin sinematik çizimi devam edildi. Sprint Review Katılımcıları : Tüm üyeler katılmıştır.
 
 Sprint Retrospective: 
 
