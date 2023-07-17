@@ -1,10 +1,11 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class FlickeringLight : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // Işığın kesik kesik yanmasını sağlayan script
+
     public Light _light;
     public float MinTime;
     public float MaxTime;
@@ -18,6 +19,7 @@ public class FlickeringLight : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (_light.intensity <0.04)
         FlickerLight();
     }
     void FlickerLight()

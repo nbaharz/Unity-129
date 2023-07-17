@@ -9,7 +9,7 @@ public class keyPickupNew : MonoBehaviour
     public GameObject keyObject;
     public GameObject pickUpText;
     //public Image keyIcon; // Anahtar simgesi için Image öğesi
-    private bool hasKey = false; // Başlangıçta anahtar yok
+    public static bool hasKey = false; // Başlangıçta anahtar yok
 
     private void Start()
     {
@@ -36,7 +36,7 @@ public class keyPickupNew : MonoBehaviour
             pickUpText.SetActive(false); // Metin öğesini devre dışı bırak
         }
     }
-    private void Update()
+    public void Update()
     {
         if (hasKey && Input.GetKeyDown(KeyCode.Q)) // Eğer anahtar alındıysa ve E tuşuna basıldıysa
         {
