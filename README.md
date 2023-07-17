@@ -109,7 +109,7 @@ Sprint Notları: User Story'ler ve puanları product backlog'ların içine yazı
 Sprint içinde tamamlanması tahmin edilen puan: 200 puan
 
 Daily Scrum: Daily Scrum toplantılarının Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir.
-[DailyScrum_3.docx](https://github.com/senademirbass/Unity-129/files/12065641/DailyScrum_3.docx)
+[DailyScrum_3.docx](https://github.com/senademirbass/Unity-129/blob/main/DailyScrum_3.docx)
 
 
 Sprint Board Not: Premium süresi dolduğu için grafikler eklenemedi.
