@@ -16,11 +16,13 @@ Nur Bahar YAVUZ - Developer
 Live For Life
 
 # Ürün Açıklaması
-Hayvanların kozmetik ürün deneylerinde kullanılmasına tepki amaçlı tasarlanan oyunun ana karakteri olan tavşanımız, iyi amaçlarla geldiğini düşündüğü laboratuvar ortamında eski deneklere ait bazı eşyalar ve notlar bularak buranın aslında kötü bir yer olduğunun farkına varır. Laboratuvar ortamından kaçmaya çalışmasıyla oyun başlar. Oyunun amacı tavşanın laboratuvar ortamından, üzerinde uygulanacak deneylerden kaçıp doğal ortamına ulaşmasını sağlamaktır.
+Hayvanların kozmetik ürün deneylerinde kullanılmasına tepki amaçlı tasarlanan oyunun ana karakteri olan tavşanımız, iyi amaçlarla geldiğini düşündüğü laboratuvar ortamında eski deneklere ait bir not bularak geldiği yerin aslında kötü bir yer olduğunun farkına varır. Çizim sinematik geçişleri ardından karakterin laboratuvar ortamından kaçmaya çalışmasıyla oyun başlar. Oyunun amacı tavşanın laboratuvar ortamından, üzerinde uygulanacak deneylerden kaçıp doğal ortamına ulaşmasını sağlamaktır.
 
 # Ürün Özellikleri
 
 Soft 3d enviroment elements
+
+Platform
 
 Cinematics
 
