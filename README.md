@@ -16,11 +16,13 @@ Nur Bahar YAVUZ - Developer
 Live For Life
 
 # Ürün Açıklaması
-Hayvanların kozmetik ürün deneylerinde kullanılmasına tepki amaçlı tasarlanan oyunun ana karakteri olan tavşanımız, iyi amaçlarla geldiğini düşündüğü laboratuvar ortamında eski deneklere ait bazı eşyalar ve notlar bularak buranın aslında kötü bir yer olduğunun farkına varır. Laboratuvar ortamından kaçmaya çalışmasıyla oyun başlar. Oyunun amacı tavşanın laboratuvar ortamından, üzerinde uygulanacak deneylerden kaçıp doğal ortamına ulaşmasını sağlamaktır.
+Hayvanların kozmetik ürün deneylerinde kullanılmasına tepki amaçlı tasarlanan oyunun ana karakteri olan tavşanımız, iyi amaçlarla geldiğini düşündüğü laboratuvar ortamında eski deneklere ait bir not bularak geldiği yerin aslında kötü bir yer olduğunun farkına varır. Çizim sinematik geçişleri ardından karakterin laboratuvar ortamından kaçmaya çalışmasıyla oyun başlar. Oyunun amacı tavşanın laboratuvar ortamından, üzerinde uygulanacak deneylerden kaçıp doğal ortamına ulaşmasını sağlamaktır.
 
 # Ürün Özellikleri
 
 Soft 3d enviroment elements
+
+Platform
 
 Cinematics
 
@@ -102,7 +104,40 @@ Sprint Retrospective:
 
 [U-129 Product Backlog Trello Board](https://trello.com/b/wWiXLAKF/2-sprint)
 
+# Sprint 3
 
+Sprint Notları: User Story'ler ve puanları product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+Sprint içinde tamamlanması tahmin edilen puan: 200 puan
+
+Daily Scrum: Daily Scrum toplantılarının Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir.
+[DailyScrum_3.docx](https://github.com/senademirbass/Unity-129/blob/main/DailyScrum_3.docx)
+
+
+Sprint Board Not: Premium süresi dolduğu için grafikler eklenemedi.
+
+Sprint Board Güncellemesi:
+![trello](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/assets/121698172/62d03dc6-0f23-49d5-9f79-0a0c603a66c2)
+![trello1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/assets/121698172/2bf944d0-a8db-42e3-88e1-0d86620eb546)
+
+Ürün Durumu: Ekran Görüntüleri
+
+![WhatsApp Image 2023-07-17 at 00 31 56 (1)](https://github.com/senademirbass/Unity-129/assets/121698172/56023290-ac4e-4a6d-bf7f-9d52abf4e4c1)
+![WhatsApp Image 2023-07-17 at 00 32 17](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/assets/121698172/a8a2a0d3-3434-4daa-87e4-efa16ca34d1c)
+![WhatsApp Image 2023-07-17 at 00 32 54](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/assets/121698172/32d83408-165d-4936-9f9a-abcd60a31b15)
+![IMG_20230714_042833](https://github.com/senademirbass/Unity-129/assets/121698172/7a4fc84e-f55c-48b7-ac73-9e695b0c44be)
+![57e12b7a-30fc-47b6-96df-0b9a9669a9c3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/assets/121698172/fee86206-94b5-493c-afca-ae9b9d32ac09)
+![IMG_20230717_025934](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/assets/121698172/f725008c-bbd9-4c5f-a3bb-78b33ad5a8ab)
+
+
+Sprint Rewiew: Alınan Kararlar: Belirlediğimiz sahne tasarımları tamamlandı ve eksikler kapatıldı. Karakter animasyonları tamamlandı.UI tasarımı tamamlandı. Bitiş sahnelerinin sinematik çizimi devam edildi. Sprint Review Katılımcıları : Tüm üyeler katılmıştır.
+
+Sprint Retrospective: 
+1. Sahneler daha detaylı konuşulmalıydı.
+
+# Product Backlog
+
+[U-129 Product Backlog Trello Board](https://trello.com/b/JzKyre4X/3-sprint)
 
 
 
