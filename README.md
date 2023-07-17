@@ -109,7 +109,7 @@ Sprint Notları: User Story'ler ve puanları product backlog'ların içine yazı
 Sprint içinde tamamlanması tahmin edilen puan: 200 puan
 
 Daily Scrum: Daily Scrum toplantılarının Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir.
-[Daily_Scrum_Sprint_3 (1).docx](https://github.com/senademirbass/Unity-129/files/12065641/Daily_Scrum_Sprint_3.1.docx)
+[DailyScrum_3.docx](https://github.com/senademirbass/Unity-129/files/12065641/DailyScrum_3.docx)
 
 
 Sprint Board Not: Premium süresi dolduğu için grafikler eklenemedi.
@@ -120,8 +120,6 @@ Sprint Board Güncellemesi:
 
 Ürün Durumu: Ekran Görüntüleri
 
-https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/assets/121698172/a5204064-5742-4f8b-943e-16db7e343e51
-https://github.com/senademirbass/Unity-129/assets/121698172/c3b2b476-6dac-40ee-8d05-657bb28a2ab9
 ![WhatsApp Image 2023-07-17 at 00 31 56 (1)](https://github.com/senademirbass/Unity-129/assets/121698172/56023290-ac4e-4a6d-bf7f-9d52abf4e4c1)
 ![WhatsApp Image 2023-07-17 at 00 32 17](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/assets/121698172/a8a2a0d3-3434-4daa-87e4-efa16ca34d1c)
 ![WhatsApp Image 2023-07-17 at 00 32 54](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/assets/121698172/32d83408-165d-4936-9f9a-abcd60a31b15)
@@ -136,8 +134,8 @@ Sprint Retrospective:
 1. Sahneler daha detaylı konuşulmalıydı.
 
 # Product Backlog
-[U-129 Ürün İş Listesi Trello Panosu](https://trello.com/b/riyQvt6m/u-129)
 
+[U-129 Product Backlog Trello Board](https://trello.com/b/JzKyre4X/3-sprint)
 
 
 
