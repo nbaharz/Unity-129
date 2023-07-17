@@ -102,6 +102,21 @@ Sprint Retrospective:
 
 [U-129 Product Backlog Trello Board](https://trello.com/b/wWiXLAKF/2-sprint)
 
+# Sprint 3
+
+Sprint Notları: User Story'ler ve puanları product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+Sprint içinde tamamlanması tahmin edilen puan: 200 puan
+
+Daily Scrum: Daily Scrum toplantılarının Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir.
+
+Sprint Board Not: Premium süresi dolduğu için grafikler screenshot olarak eklendi.
+
+Ürün Durumu: Ekran Görüntüleri
+
+Sprint Rewiew: Alınan Kararlar: Belirlediğimiz ve tamamlamlanmamış olan sahne tasarımları tamamlandı. Karakter animasyonları tamamlandı. Bitiş sahnelerinin sinematik çizimi devam edildi. Sprint Review Katılımcıları : Tüm üyeler katılmıştır.
+
+Sprint Retrospective: 
 
 
 
