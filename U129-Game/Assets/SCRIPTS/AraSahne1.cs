@@ -12,7 +12,7 @@ public class AraSahne1 : MonoBehaviour
     [SerializeField] GameObject image5;
     [SerializeField] GameObject image6;
     [SerializeField] GameObject image7;
-
+    public Animator FadeAnim;
     [SerializeField] bool g1, g2, g3, g4, g5, g6, g7;
     public void Awake()
     {
@@ -86,12 +86,14 @@ public class AraSahne1 : MonoBehaviour
             image7.SetActive(true);
             image6.SetActive(false);
             g7 = false;
-            Invoke("SahneGeçiş2", 2f);
+            StartCoroutine(ChangeScene());
         }
         
     }
-    private void SahneGeçiş2()
+    public IEnumerator ChangeScene()
     {
-        SceneManager.LoadScene(2);
+        FadeAnim.SetTrigger("FadeOut"); // FadeOut animasyonunu tetikle
+        yield return new WaitForSeconds(2f);
+        SceneManager.LoadScene("Credits");
     }
 }
