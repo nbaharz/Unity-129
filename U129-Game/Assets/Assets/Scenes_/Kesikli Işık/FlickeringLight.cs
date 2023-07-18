@@ -16,7 +16,7 @@ public class FlickeringLight : MonoBehaviour
         Timer = Random.Range(MinTime, MaxTime);
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
         if (_light.intensity <0.04)

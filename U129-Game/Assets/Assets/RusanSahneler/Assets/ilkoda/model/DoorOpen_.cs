@@ -7,11 +7,13 @@ using UnityEngine.UI;
 
 public class DoorOpen_ : MonoBehaviour
 {
-    public Animator animator;
+    //Anahtarla kapıyı açma ve sahne geçiş animasyonları
+   
     public bool hasKey_;
-    public GameObject DoorUnlocked;
-    public GameObject DoorLocked;
-    // Start is called before the first frame update
+    public GameObject DoorUnlocked; //Anahtar yokken kapının kilitli olduğunu gösterir
+    public GameObject DoorLocked; // Kapıdan geçilebileceğini gösterir.
+    public Animator FadeAnim; // Sahne açılış kapanış kararma efekti
+    
     void Start()
     {
         DoorLocked.SetActive(false);
@@ -21,7 +23,7 @@ public class DoorOpen_ : MonoBehaviour
 
     public void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player"))// Anahtara Player tag'iyle bir nesne çarparsa
+        if (other.CompareTag("Player"))// Kapı ile oyuncunun çarpışması
         {
             if (hasKey_)
             {
@@ -36,7 +38,7 @@ public class DoorOpen_ : MonoBehaviour
     }
     public void OnTriggerExit(Collider other)
     {
-        if (other.CompareTag("Player")) // Anahtardan uzaklaşıldığında
+        if (other.CompareTag("Player")) // Kapıdan uzaklaşıldığında
         {
             DoorUnlocked.SetActive(false);
             DoorLocked.SetActive(false);
@@ -49,9 +51,14 @@ public class DoorOpen_ : MonoBehaviour
         {
             DoorUnlocked.SetActive(false);
             DoorLocked.SetActive(false);
-            SceneManager.LoadScene("MorgSahnesi");
-
+            StartCoroutine(ChangeScene()); // ChangeScene Coroutine'unu başlat
         }
+    }
 
+    public IEnumerator ChangeScene()
+    {
+        FadeAnim.SetTrigger("FadeOut"); // FadeOut animasyonunu tetikle
+        yield return new WaitForSeconds(2f);
+        SceneManager.LoadScene("MorgSahnesi");
     }
 }

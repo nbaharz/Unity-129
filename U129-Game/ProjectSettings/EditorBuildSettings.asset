@@ -6,9 +6,33 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: "Assets/Assets/RusanSahneler/Assets/ilkoda/KatletmeOdas\u0131.unity"
+    path: Assets/ui 1/MainMenu.unity
+    guid: e837473effa291c449db7b906f85cab6
+  - enabled: 1
+    path: "Assets/AllScenes/KatletmeOdas\u0131.unity"
     guid: 689f0355746a9054380cab4428349d43
   - enabled: 1
-    path: Assets/Assets/RusanSahneler/Assets/morg/MorgSahnesi.unity
+    path: Assets/AllScenes/MorgSahnesi.unity
     guid: 95623c899afce35449cc89f0d809cd38
+  - enabled: 1
+    path: Assets/AllScenes/1.unity
+    guid: dc57fff0d0fb2ea4997f5b1ab106c23b
+  - enabled: 1
+    path: Assets/AllScenes/Oda-Koridor.unity
+    guid: 80382492fc9447a4494d807b33b216ed
+  - enabled: 1
+    path: Assets/AllScenes/BoruSahnesi.unity
+    guid: 59272711edc95d646ae7a7ec3699cf5f
+  - enabled: 1
+    path: "Assets/AllScenes/Z\u0131plamaParkurSahnesi.unity"
+    guid: 4ecde69962f8d13479c46c015232f216
+  - enabled: 0
+    path: Assets/AllScenes/BoruSahnesi 2.unity
+    guid: f87afb5ee8311e94794a4101d889e5d7
+  - enabled: 1
+    path: Assets/AllScenes/End.unity
+    guid: d8cb05d8c91ea5e41b20b50c91510ca1
+  - enabled: 1
+    path: Assets/AllScenes/KameraSahnesi.unity
+    guid: b5ec5ca0153ee204b872c0c708ae9beb
   m_configObjects: {}

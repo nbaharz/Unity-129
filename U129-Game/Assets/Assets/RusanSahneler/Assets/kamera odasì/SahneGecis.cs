@@ -4,9 +4,17 @@ using UnityEngine;
 
 public class SahneGecis : MonoBehaviour
 {
-    // Start is called before the first frame update
+    
+    public Animator animator;
+    private int levelToLoad;
+
     private void Update()
     {
         
+    }
+    public void FadeToLevel(int levelIndex)
+    {
+        levelToLoad = levelIndex;
+        animator.SetTrigger("FadeOut");
     }
 }

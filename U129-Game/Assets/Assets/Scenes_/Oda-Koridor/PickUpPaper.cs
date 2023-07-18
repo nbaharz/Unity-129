@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class PickUpPaper : MonoBehaviour
 {
+    // Not alma, okuma sistemi
     public GameObject instruction; // "Read the letter" 
     public GameObject directionalLight; 
     public GameObject readPaper; // Mektup canvas görseli
@@ -48,7 +49,7 @@ public class PickUpPaper : MonoBehaviour
            quitPaper.SetActive(true);
            readPaper.SetActive(true);
            instruction.SetActive(false);
-            arrow.SetActive(false);
+           arrow.SetActive(false);
             
         }
         if (Input.GetKeyDown(KeyCode.Escape) && getPaper)
